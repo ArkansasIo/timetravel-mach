@@ -1,0 +1,10 @@
+[
+  {"id":226,"title":"Quantum Causal Networks","status":"ACTIVE_RESEARCH"},
+  {"id":227,"title":"Temporal Superposition (Toy Model)","status":"TOY_MODEL"},
+  {"id":230,"title":"Density Matrices and Purity","status":"ESTABLISHED"},
+  {"id":301,"title":"Special-Relativistic Time Dilation","status":"ESTABLISHED"},
+  {"id":302,"title":"Gravitational Clock Rates","status":"ESTABLISHED"},
+  {"id":303,"title":"Wormhole Time-Shift Proposal","status":"SPECULATIVE"},
+  {"id":304,"title":"Closed Timelike Curves","status":"ACTIVE_RESEARCH"},
+  {"id":306,"title":"Extra Dimensions","status":"SPECULATIVE"}
+]
