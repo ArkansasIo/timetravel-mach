@@ -1,6 +1,6 @@
 # Complete ETPS system index — Systems 226–400
 
-This index contains 175 system records. Status is a preliminary editorial classification and must be supported with sources before publication. It does not imply that speculative mechanisms exist.
+This index contains exactly 175 records. Status labels are preliminary editorial classifications; verify each against cited sources before publication. A mathematical construction does not establish physical realizability.
 
 | ID | Volume | System | Status |
 |---:|:---:|---|---|
@@ -79,21 +79,6 @@ This index contains 175 system records. Status is a preliminary editorial classi
 | 298 | III | Black-hole information paradox | ACTIVE_RESEARCH |
 | 299 | III | Holographic time evolution | ESTABLISHED |
 | 300 | III | AdS/CFT time-dependent states | ESTABLISHED |
-| 301 | III | Quantum gravity and time problem | SPECULATIVE |
-| 302 | III | Canonical quantum gravity constraints | SPECULATIVE |
-| 303 | III | Wheeler–DeWitt equation context | ACTIVE_RESEARCH |
-| 304 | III | Relational time proposals | SPECULATIVE |
-| 305 | III | Page–Wootters clock model | SPECULATIVE |
-| 306 | III | Temporal correlations in many-body systems | ESTABLISHED |
-| 307 | III | Many-body localization dynamics | ESTABLISHED |
-| 308 | III | Thermalization and equilibration | ESTABLISHED |
-| 309 | III | Eigenstate thermalization hypothesis | ESTABLISHED |
-| 310 | III | Quantum scars and anomalous dynamics | ESTABLISHED |
-| 311 | III | Non-Markovian memory kernels | ESTABLISHED |
-| 312 | III | Time-crystal definitions and limits | ACTIVE_RESEARCH |
-| 313 | III | Discrete time-translation symmetry | ESTABLISHED |
-| 314 | III | Quantum sensing of acceleration | ESTABLISHED |
-| 315 | III | Research reproducibility and model validation | ACTIVE_RESEARCH |
 | 301 | IV | Special-relativistic time dilation | ESTABLISHED |
 | 302 | IV | Gravitational clock rates | ESTABLISHED |
 | 303 | IV | Wormhole time-shift proposal | SPECULATIVE |
@@ -195,5 +180,5 @@ This index contains 175 system records. Status is a preliminary editorial classi
 | 399 | IV | Reissner–Nordström geometry | ESTABLISHED |
 | 400 | IV | Numerical stability near horizons | ESTABLISHED |
 
-## Required completion standard
-For each system, add a sourced derivation, variables and SI units, assumptions, boundary conditions, an evidence summary, a falsifiable test where meaningful, reproducible code, tests, and limitations. This index is the catalog foundation, not a claim that every topic already has a complete paper.
+## Completion standard for every system
+Add a sourced derivation, variables and SI units, assumptions, boundary conditions, evidence summary, falsifiable tests where meaningful, reproducible code, tests, and limitations. This index is a structured catalog, not a claim that every topic already has a complete paper.
