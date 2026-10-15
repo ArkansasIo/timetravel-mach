@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "etps-research"
+version = "0.1.0"
+description = "Reproducible temporal physics research archive and toy simulations"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "matplotlib>=3.8"]
+
+[project.scripts]
+etps = "etps.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["etps*"]
