@@ -1,0 +1,1337 @@
+{
+  "schema_version": "1.0",
+  "title": "ETPS systems 226–400",
+  "status_note": "Preliminary catalog; claims require source verification.",
+  "systems": [
+    {
+      "id": 226,
+      "title": "Quantum causal networks",
+      "volume": "III",
+      "status": "TOY_MODEL",
+      "summary": "System 226: Quantum causal networks. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 227,
+      "title": "Temporal superposition toy model",
+      "volume": "III",
+      "status": "TOY_MODEL",
+      "summary": "System 227: Temporal superposition toy model. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 228,
+      "title": "Measurement and temporal records",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 228: Measurement and temporal records. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 229,
+      "title": "Quantum entanglement across time",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 229: Quantum entanglement across time. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 230,
+      "title": "Density matrices and purity",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 230: Density matrices and purity. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 231,
+      "title": "Temporal quantum channels",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 231: Temporal quantum channels. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 232,
+      "title": "Paradox-loop fixed-point toy model",
+      "volume": "III",
+      "status": "TOY_MODEL",
+      "summary": "System 232: Paradox-loop fixed-point toy model. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 233,
+      "title": "Quantum fields in spacetime",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 233: Quantum fields in spacetime. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 234,
+      "title": "Temporal qubit encoding toy model",
+      "volume": "III",
+      "status": "TOY_MODEL",
+      "summary": "System 234: Temporal qubit encoding toy model. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 235,
+      "title": "Quantum multiverse processor fiction",
+      "volume": "III",
+      "status": "FICTION",
+      "summary": "System 235: Quantum multiverse processor fiction. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 236,
+      "title": "Open quantum systems",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 236: Open quantum systems. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 237,
+      "title": "Lindblad master equations",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 237: Lindblad master equations. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 238,
+      "title": "Quantum process tomography",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 238: Quantum process tomography. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 239,
+      "title": "Quantum clock models",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 239: Quantum clock models. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 240,
+      "title": "Quantum metrology and precision timing",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 240: Quantum metrology and precision timing. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 241,
+      "title": "Decoherence of temporal records",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 241: Decoherence of temporal records. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 242,
+      "title": "Quantum thermodynamics and work",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 242: Quantum thermodynamics and work. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 243,
+      "title": "Quantum causal inference",
+      "volume": "III",
+      "status": "TOY_MODEL",
+      "summary": "System 243: Quantum causal inference. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 244,
+      "title": "Quantum switch and indefinite causal order",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 244: Quantum switch and indefinite causal order. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 245,
+      "title": "Postselection and temporal correlations",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 245: Postselection and temporal correlations. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 246,
+      "title": "Leggett–Garg temporal inequalities",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 246: Leggett–Garg temporal inequalities. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 247,
+      "title": "Weak measurement and temporal correlations",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 247: Weak measurement and temporal correlations. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 248,
+      "title": "Quantum histories formalism",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 248: Quantum histories formalism. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 249,
+      "title": "Consistent histories constraints",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 249: Consistent histories constraints. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 250,
+      "title": "Quantum Zeno dynamics",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 250: Quantum Zeno dynamics. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 251,
+      "title": "Time-dependent Hamiltonians",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 251: Time-dependent Hamiltonians. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 252,
+      "title": "Floquet systems and periodic time",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 252: Floquet systems and periodic time. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 253,
+      "title": "Quantum recurrence",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 253: Quantum recurrence. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 254,
+      "title": "Loschmidt echo and reversibility",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 254: Loschmidt echo and reversibility. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 255,
+      "title": "Quantum chaos and temporal sensitivity",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 255: Quantum chaos and temporal sensitivity. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 256,
+      "title": "Quantum information flow",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 256: Quantum information flow. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 257,
+      "title": "Quantum channel capacity over time",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 257: Quantum channel capacity over time. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 258,
+      "title": "Quantum error correction and memory",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 258: Quantum error correction and memory. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 259,
+      "title": "Quantum memory lifetime",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 259: Quantum memory lifetime. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 260,
+      "title": "Quantum synchronization",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 260: Quantum synchronization. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 261,
+      "title": "Entropic uncertainty relations",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 261: Entropic uncertainty relations. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 262,
+      "title": "Energy-time operational bounds",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 262: Energy-time operational bounds. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 263,
+      "title": "Quantum speed limits",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 263: Quantum speed limits. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 264,
+      "title": "Mandelstam–Tamm bound",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 264: Mandelstam–Tamm bound. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 265,
+      "title": "Margolus–Levitin bound",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 265: Margolus–Levitin bound. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 266,
+      "title": "Clock interferometry",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 266: Clock interferometry. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 267,
+      "title": "Optical atomic clocks",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 267: Optical atomic clocks. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 268,
+      "title": "Entangled clock networks",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 268: Entangled clock networks. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 269,
+      "title": "Relativistic quantum clocks",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 269: Relativistic quantum clocks. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 270,
+      "title": "Quantum reference frames",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 270: Quantum reference frames. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 271,
+      "title": "Operational time observables",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 271: Operational time observables. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 272,
+      "title": "Arrival-time distributions",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 272: Arrival-time distributions. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 273,
+      "title": "Time-of-arrival measurement models",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 273: Time-of-arrival measurement models. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 274,
+      "title": "Quantum trajectories",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 274: Quantum trajectories. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 275,
+      "title": "Continuous measurement",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 275: Continuous measurement. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 276,
+      "title": "Open-system entropy production",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 276: Open-system entropy production. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 277,
+      "title": "Quantum fluctuation theorems",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 277: Quantum fluctuation theorems. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 278,
+      "title": "Landauer erasure cost",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 278: Landauer erasure cost. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 279,
+      "title": "Thermodynamic cost of timing",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 279: Thermodynamic cost of timing. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 280,
+      "title": "Temporal Bell-type tests",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 280: Temporal Bell-type tests. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 281,
+      "title": "Process matrices",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 281: Process matrices. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 282,
+      "title": "Causal nonseparability",
+      "volume": "III",
+      "status": "SPECULATIVE",
+      "summary": "System 282: Causal nonseparability. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 283,
+      "title": "Quantum combs",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 283: Quantum combs. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 284,
+      "title": "Channel-state duality",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 284: Channel-state duality. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 285,
+      "title": "Quantum circuit time ordering",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 285: Quantum circuit time ordering. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 286,
+      "title": "Quantum simulation of causal models",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 286: Quantum simulation of causal models. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 287,
+      "title": "Tensor-network time evolution",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 287: Tensor-network time evolution. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 288,
+      "title": "Path-integral time formulation",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 288: Path-integral time formulation. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 289,
+      "title": "Propagators and Green functions",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 289: Propagators and Green functions. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 290,
+      "title": "Retarded and advanced Green functions",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 290: Retarded and advanced Green functions. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 291,
+      "title": "Boundary conditions in field theory",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 291: Boundary conditions in field theory. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 292,
+      "title": "Vacuum fluctuations and time",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 292: Vacuum fluctuations and time. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 293,
+      "title": "Curved-spacetime quantum fields",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 293: Curved-spacetime quantum fields. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 294,
+      "title": "Unruh effect theory",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 294: Unruh effect theory. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 295,
+      "title": "Hawking radiation theory",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 295: Hawking radiation theory. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 296,
+      "title": "Quantum information in black-hole settings",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 296: Quantum information in black-hole settings. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 297,
+      "title": "Page curve and information recovery",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 297: Page curve and information recovery. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 298,
+      "title": "Black-hole information paradox",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 298: Black-hole information paradox. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 299,
+      "title": "Holographic time evolution",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 299: Holographic time evolution. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 300,
+      "title": "AdS/CFT time-dependent states",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 300: AdS/CFT time-dependent states. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 301,
+      "title": "Quantum gravity and time problem",
+      "volume": "III",
+      "status": "SPECULATIVE",
+      "summary": "System 301: Quantum gravity and time problem. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 302,
+      "title": "Canonical quantum gravity constraints",
+      "volume": "III",
+      "status": "SPECULATIVE",
+      "summary": "System 302: Canonical quantum gravity constraints. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 303,
+      "title": "Wheeler–DeWitt equation context",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 303: Wheeler–DeWitt equation context. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 304,
+      "title": "Relational time proposals",
+      "volume": "III",
+      "status": "SPECULATIVE",
+      "summary": "System 304: Relational time proposals. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 305,
+      "title": "Page–Wootters clock model",
+      "volume": "III",
+      "status": "SPECULATIVE",
+      "summary": "System 305: Page–Wootters clock model. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 306,
+      "title": "Temporal correlations in many-body systems",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 306: Temporal correlations in many-body systems. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 307,
+      "title": "Many-body localization dynamics",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 307: Many-body localization dynamics. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 308,
+      "title": "Thermalization and equilibration",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 308: Thermalization and equilibration. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 309,
+      "title": "Eigenstate thermalization hypothesis",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 309: Eigenstate thermalization hypothesis. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 310,
+      "title": "Quantum scars and anomalous dynamics",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 310: Quantum scars and anomalous dynamics. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 311,
+      "title": "Non-Markovian memory kernels",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 311: Non-Markovian memory kernels. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 312,
+      "title": "Time-crystal definitions and limits",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 312: Time-crystal definitions and limits. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 313,
+      "title": "Discrete time-translation symmetry",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 313: Discrete time-translation symmetry. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 314,
+      "title": "Quantum sensing of acceleration",
+      "volume": "III",
+      "status": "ESTABLISHED",
+      "summary": "System 314: Quantum sensing of acceleration. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 315,
+      "title": "Research reproducibility and model validation",
+      "volume": "III",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 315: Research reproducibility and model validation. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
+    },
+    {
+      "id": 301,
+      "title": "Special-relativistic time dilation",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 301: Special-relativistic time dilation. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 302,
+      "title": "Gravitational clock rates",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 302: Gravitational clock rates. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 303,
+      "title": "Wormhole time-shift proposal",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 303: Wormhole time-shift proposal. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 304,
+      "title": "Closed timelike curves",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 304: Closed timelike curves. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 305,
+      "title": "Black-hole horizons and proper time",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 305: Black-hole horizons and proper time. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 306,
+      "title": "Extra-dimensional spacetime models",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 306: Extra-dimensional spacetime models. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 307,
+      "title": "Cosmological scale factor",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 307: Cosmological scale factor. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 308,
+      "title": "Entropy and the arrow of time",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 308: Entropy and the arrow of time. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 309,
+      "title": "Causal graphs and partial orders",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 309: Causal graphs and partial orders. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 310,
+      "title": "Energy-time relations",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 310: Energy-time relations. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 311,
+      "title": "Accelerated observers",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 311: Accelerated observers. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 312,
+      "title": "Twin-paradox worldlines",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 312: Twin-paradox worldlines. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 313,
+      "title": "Rindler coordinates",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 313: Rindler coordinates. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 314,
+      "title": "Gravitational redshift",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 314: Gravitational redshift. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 315,
+      "title": "GPS relativistic clock corrections",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 315: GPS relativistic clock corrections. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 316,
+      "title": "Geodesic proper-time integration",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 316: Geodesic proper-time integration. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 317,
+      "title": "FLRW cosmological distances",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 317: FLRW cosmological distances. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 318,
+      "title": "Horizon thermodynamics",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 318: Horizon thermodynamics. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 319,
+      "title": "Kerr spacetime geometry",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 319: Kerr spacetime geometry. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 320,
+      "title": "Coordinate singularities",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 320: Coordinate singularities. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 321,
+      "title": "Causal diamonds",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 321: Causal diamonds. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 322,
+      "title": "Global hyperbolicity",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 322: Global hyperbolicity. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 323,
+      "title": "Chronology protection conjecture",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 323: Chronology protection conjecture. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 324,
+      "title": "Semiclassical backreaction",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 324: Semiclassical backreaction. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 325,
+      "title": "Classical energy conditions",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 325: Classical energy conditions. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 326,
+      "title": "Averaged null energy condition",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 326: Averaged null energy condition. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 327,
+      "title": "Quantum energy inequalities",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 327: Quantum energy inequalities. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 328,
+      "title": "Wormhole stability conditions",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 328: Wormhole stability conditions. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 329,
+      "title": "Spacetime topology change",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 329: Spacetime topology change. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 330,
+      "title": "Cosmic censorship conjecture",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 330: Cosmic censorship conjecture. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 331,
+      "title": "Compact extra dimensions",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 331: Compact extra dimensions. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 332,
+      "title": "Kaluza–Klein modes",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 332: Kaluza–Klein modes. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 333,
+      "title": "Brane-world scenarios",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 333: Brane-world scenarios. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 334,
+      "title": "Causal-set theory",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 334: Causal-set theory. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 335,
+      "title": "Lorentz-symmetry tests",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 335: Lorentz-symmetry tests. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 336,
+      "title": "Neutrino time-of-flight constraints",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 336: Neutrino time-of-flight constraints. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 337,
+      "title": "Gravitational-wave timing",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 337: Gravitational-wave timing. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 338,
+      "title": "Clock-network synchronization",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 338: Clock-network synchronization. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 339,
+      "title": "Cosmological parameter inference",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 339: Cosmological parameter inference. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 340,
+      "title": "Dark-energy equation of state",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 340: Dark-energy equation of state. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 341,
+      "title": "Numerical relativity methods",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 341: Numerical relativity methods. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 342,
+      "title": "Geodesic numerical integration",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 342: Geodesic numerical integration. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 343,
+      "title": "Relativistic ray tracing",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 343: Relativistic ray tracing. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 344,
+      "title": "Black-hole accretion timing",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 344: Black-hole accretion timing. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 345,
+      "title": "Gravitational lensing time delays",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 345: Gravitational lensing time delays. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 346,
+      "title": "Early-universe phase transitions",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 346: Early-universe phase transitions. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 347,
+      "title": "Bekenstein entropy bound",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 347: Bekenstein entropy bound. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 348,
+      "title": "Holography and spacetime",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 348: Holography and spacetime. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 349,
+      "title": "Warp-metric proposals",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 349: Warp-metric proposals. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 350,
+      "title": "Metric engineering constraints",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 350: Metric engineering constraints. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 351,
+      "title": "Schwarzschild radial infall",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 351: Schwarzschild radial infall. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 352,
+      "title": "Kerr frame dragging",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 352: Kerr frame dragging. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 353,
+      "title": "Lense–Thirring precession",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 353: Lense–Thirring precession. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 354,
+      "title": "Shapiro time delay",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 354: Shapiro time delay. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 355,
+      "title": "Pulsar timing tests",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 355: Pulsar timing tests. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 356,
+      "title": "Binary-pulsar orbital decay",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 356: Binary-pulsar orbital decay. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 357,
+      "title": "Equivalence-principle clock tests",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 357: Equivalence-principle clock tests. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 358,
+      "title": "Atom interferometry in gravity",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 358: Atom interferometry in gravity. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 359,
+      "title": "Optical-clock gravitational potential",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 359: Optical-clock gravitational potential. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 360,
+      "title": "Relativistic Doppler shift",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 360: Relativistic Doppler shift. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 361,
+      "title": "Proper time in rotating frames",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 361: Proper time in rotating frames. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 362,
+      "title": "Sagnac effect",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 362: Sagnac effect. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 363,
+      "title": "Fermi normal coordinates",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 363: Fermi normal coordinates. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 364,
+      "title": "Fermi–Walker transport",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 364: Fermi–Walker transport. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 365,
+      "title": "Geodesic deviation equation",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 365: Geodesic deviation equation. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 366,
+      "title": "Tidal tensor and clock separation",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 366: Tidal tensor and clock separation. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 367,
+      "title": "Cosmic horizons",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 367: Cosmic horizons. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 368,
+      "title": "Particle horizons and event horizons",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 368: Particle horizons and event horizons. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 369,
+      "title": "de Sitter spacetime",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 369: de Sitter spacetime. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 370,
+      "title": "Anti-de Sitter spacetime",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 370: Anti-de Sitter spacetime. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 371,
+      "title": "Einstein–Rosen bridge geometry",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 371: Einstein–Rosen bridge geometry. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 372,
+      "title": "Traversable wormhole stress-energy",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 372: Traversable wormhole stress-energy. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 373,
+      "title": "Null geodesic congruences",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 373: Null geodesic congruences. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 374,
+      "title": "Raychaudhuri equation",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 374: Raychaudhuri equation. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 375,
+      "title": "Focusing theorem",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 375: Focusing theorem. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 376,
+      "title": "Null energy condition",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 376: Null energy condition. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 377,
+      "title": "Weak energy condition",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 377: Weak energy condition. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 378,
+      "title": "Dominant energy condition",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 378: Dominant energy condition. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 379,
+      "title": "Strong energy condition",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 379: Strong energy condition. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 380,
+      "title": "Averaged energy constraints",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 380: Averaged energy constraints. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 381,
+      "title": "Vacuum solutions of Einstein equations",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 381: Vacuum solutions of Einstein equations. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 382,
+      "title": "Cosmological constant effects",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 382: Cosmological constant effects. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 383,
+      "title": "Bianchi cosmological models",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 383: Bianchi cosmological models. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 384,
+      "title": "Anisotropic expansion",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 384: Anisotropic expansion. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 385,
+      "title": "Bouncing cosmologies",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 385: Bouncing cosmologies. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 386,
+      "title": "Cyclic cosmology hypotheses",
+      "volume": "IV",
+      "status": "SPECULATIVE",
+      "summary": "System 386: Cyclic cosmology hypotheses. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 387,
+      "title": "Inflationary expansion histories",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 387: Inflationary expansion histories. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 388,
+      "title": "Cosmic microwave background constraints",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 388: Cosmic microwave background constraints. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 389,
+      "title": "Primordial gravitational waves",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 389: Primordial gravitational waves. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 390,
+      "title": "Standard-siren distance measurements",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 390: Standard-siren distance measurements. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 391,
+      "title": "Black-hole evaporation timescale",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 391: Black-hole evaporation timescale. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 392,
+      "title": "Hawking temperature",
+      "volume": "IV",
+      "status": "ACTIVE_RESEARCH",
+      "summary": "System 392: Hawking temperature. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 393,
+      "title": "Black-hole entropy",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 393: Black-hole entropy. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 394,
+      "title": "Penrose process",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 394: Penrose process. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 395,
+      "title": "Ergosphere energy extraction",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 395: Ergosphere energy extraction. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 396,
+      "title": "Cauchy horizons",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 396: Cauchy horizons. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 397,
+      "title": "Mass inflation in charged black holes",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 397: Mass inflation in charged black holes. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 398,
+      "title": "Kerr–Newman geometry",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 398: Kerr–Newman geometry. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 399,
+      "title": "Reissner–Nordström geometry",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 399: Reissner–Nordström geometry. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    },
+    {
+      "id": 400,
+      "title": "Numerical stability near horizons",
+      "volume": "IV",
+      "status": "ESTABLISHED",
+      "summary": "System 400: Numerical stability near horizons. Specify geometry, coordinate conventions, domain of validity, observational constraints, and unresolved assumptions."
+    }
+  ]
+}
