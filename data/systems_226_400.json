@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "title": "ETPS systems 226–400",
-  "status_note": "Preliminary catalog; claims require source verification.",
+  "status_note": "Preliminary catalog; classifications require source verification. Speculative entries are not claims of physical realization.",
   "systems": [
     {
       "id": 226,
@@ -527,111 +527,6 @@
       "volume": "III",
       "status": "ESTABLISHED",
       "summary": "System 300: AdS/CFT time-dependent states. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 301,
-      "title": "Quantum gravity and time problem",
-      "volume": "III",
-      "status": "SPECULATIVE",
-      "summary": "System 301: Quantum gravity and time problem. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 302,
-      "title": "Canonical quantum gravity constraints",
-      "volume": "III",
-      "status": "SPECULATIVE",
-      "summary": "System 302: Canonical quantum gravity constraints. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 303,
-      "title": "Wheeler–DeWitt equation context",
-      "volume": "III",
-      "status": "ACTIVE_RESEARCH",
-      "summary": "System 303: Wheeler–DeWitt equation context. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 304,
-      "title": "Relational time proposals",
-      "volume": "III",
-      "status": "SPECULATIVE",
-      "summary": "System 304: Relational time proposals. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 305,
-      "title": "Page–Wootters clock model",
-      "volume": "III",
-      "status": "SPECULATIVE",
-      "summary": "System 305: Page–Wootters clock model. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 306,
-      "title": "Temporal correlations in many-body systems",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 306: Temporal correlations in many-body systems. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 307,
-      "title": "Many-body localization dynamics",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 307: Many-body localization dynamics. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 308,
-      "title": "Thermalization and equilibration",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 308: Thermalization and equilibration. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 309,
-      "title": "Eigenstate thermalization hypothesis",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 309: Eigenstate thermalization hypothesis. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 310,
-      "title": "Quantum scars and anomalous dynamics",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 310: Quantum scars and anomalous dynamics. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 311,
-      "title": "Non-Markovian memory kernels",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 311: Non-Markovian memory kernels. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 312,
-      "title": "Time-crystal definitions and limits",
-      "volume": "III",
-      "status": "ACTIVE_RESEARCH",
-      "summary": "System 312: Time-crystal definitions and limits. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 313,
-      "title": "Discrete time-translation symmetry",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 313: Discrete time-translation symmetry. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 314,
-      "title": "Quantum sensing of acceleration",
-      "volume": "III",
-      "status": "ESTABLISHED",
-      "summary": "System 314: Quantum sensing of acceleration. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
-    },
-    {
-      "id": 315,
-      "title": "Research reproducibility and model validation",
-      "volume": "III",
-      "status": "ACTIVE_RESEARCH",
-      "summary": "System 315: Research reproducibility and model validation. Define the formal model, assumptions, observables, and limits; distinguish mathematical construction from physical evidence."
     },
     {
       "id": 301,
