@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research toolkit, cite the repository and the specific source files or version used."
+title: "ETPS: Encyclopedia of Temporal Paradox Systems"
+type: software
+authors:
+  - family-names: "ArkansasIo contributors"
+version: "0.1.0"
+date-released: "2026-10-15"
+license: MIT
